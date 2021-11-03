@@ -1,2 +1,1 @@
-# Tong Xiao
-## About Me
+Welcome to Tong Xiao's [Homepage](tongxiao2000.github.io)
