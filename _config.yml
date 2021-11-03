@@ -6,18 +6,18 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Songyuan Zhang"
-title_separator          : "-"
-name                     : &name "Songyuan Zhang"
-description              : &description "First year graduate student at REALM lab, MIT"
-url                      : https://syzhang092218-source.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo                     : "/files/logo.png"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "syzhang092218-source/syzhang092218-source.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+locale: "en-US"
+title: "Tong Xiao"
+title_separator: "-"
+name: &name "Tong Xiao"
+description: &description "Fourth year undergraduate student at NELN, Tsinghhua University"
+url: https://TongXiao2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: "/files/logo.png"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "TongXiao2000/TongXiao2000.github.io"
+teaser:  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs: false # true, false (default)
+words_per_minute: 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -81,14 +81,14 @@ analytics:
 
 # Site 
 :
-  name             : "Songyuan Zhang"
+  name             : "Tong Xiao"
   avatar           : "professional_1224x1633.jpg"
-  bio              : "First-year graduate student at REALM lab, MIT"
-  location         : "Cambridge, Massachusetts, USA"
+  bio              : "Fourth year undergraduate student at NELN, Tsinghhua University"
+  location         : "Tsinghua University, Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=BfAQla4AAAAJ"
-  email            : szhang21@mit.edu
+  googlescholar    : # "https://scholar.google.com/citations?user=BfAQla4AAAAJ"
+  email            : xt092218@gmail.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ analytics:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "syzhang092218-source"
+  github           : "TongXiao2000"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,11 +110,11 @@ analytics:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@syzhang092218"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "UCchgf5HNEywGBLN_rGT4joA"
+  youtube          : 
   wikipedia        :
 
 
